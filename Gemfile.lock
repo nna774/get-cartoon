@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.3.6)
+    carrier-pigeon (0.7.0)
+      addressable
+    mini_portile (0.6.0)
+    nokogiri (1.6.2.1)
+      mini_portile (= 0.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  carrier-pigeon
+  nokogiri
